@@ -25,9 +25,9 @@ Nástroj na testovanie
 ## **Testovanie API** 
 
 ## **SQL** 
-tvorenie databázy
-Vysvetlili sme si čo je to SQL.
-Naučili sme sa základné príkazy.
-Tu je link na SQL cvičenia:
+- tvorenie databázy
+- Vysvetlili sme si čo je to SQL.
+- Naučili sme sa základné príkazy.
+- Tu je link na SQL cvičenia:
 [W3school](https://www.w3schools.com/sql/sql_exercises.asp
 )
