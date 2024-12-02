@@ -6,3 +6,4 @@ Workshop pre začiatočníčky v Gite. V rámci workshopu pokryjeme nasledujúce
 - git add / commit
 - git pull
 - git push
+- git conflict
