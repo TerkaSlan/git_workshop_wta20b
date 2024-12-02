@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
+nikola schlosserova
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 monika michalikova
 maria rybarova
+Monika Ondrusova
 terka slaninakova
