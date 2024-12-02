@@ -10,6 +10,7 @@ Pokúšali sme sa testovať výťah.
 ## **Session based testing** 
 
 ## **Jira and Bug**
+Nástroj na testovanie
 
 ## **Manažment testovania**
 
@@ -24,11 +25,9 @@ Pokúšali sme sa testovať výťah.
 ## **Testovanie API** 
 
 ## **SQL** 
-
+tvorenie databázy
 Vysvetlili sme si čo je to SQL.
-
 Naučili sme sa základné príkazy.
-
 Tu je link na SQL cvičenia:
 [W3school](https://www.w3schools.com/sql/sql_exercises.asp
 )
