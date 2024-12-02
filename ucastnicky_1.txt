@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+Kika Hrabovska
+Ingeborg Stajgerova
+=======
+livia schlencova
+>>>>>>> origin/main
 LudkaSykorova
+Kika Hrabovska
 terka slaninakova
