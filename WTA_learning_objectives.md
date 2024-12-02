@@ -5,6 +5,7 @@
 ## **Session based testing** 
 
 ## **Jira and Bug**
+Nástroj na testovanie
 
 ## **Manažment testovania**
 
@@ -19,3 +20,4 @@
 ## **Testovanie API** 
 
 ## **SQL** 
+tvorenie databázy
