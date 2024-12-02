@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
+nikola schlosserova
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 monika michalikova
+=======
+Monika Ondrusova
+>>>>>>> Stashed changes
 terka slaninakova
