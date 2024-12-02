@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 petra pitelova
 terka slaninakova
+=======
+Veronika Pikáliová
+Terka Slaninkova
+Paulina Sekerkova
+Petra Piteľová
+Radoslava Svetlíková
+Silvia
+Veronika Kavkova
+Viktória Melicherová
+>>>>>>> origin/main
