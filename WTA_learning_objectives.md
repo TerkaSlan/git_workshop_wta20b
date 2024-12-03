@@ -31,7 +31,7 @@ Otestujte cestovné poriadky na cp.sk
 - (https://cp.sk/vlakbusmhd/spojenie/)
 ## **Jira and Bug**
 Jira je najpopulárnejší nástroj na riadenie projektu, existuje
-- serverová
+- serverová (on-premis)
 - online(cloudova)
 
 Nástroj na testovanie
