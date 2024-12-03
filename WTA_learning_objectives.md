@@ -51,14 +51,36 @@ Sekvenčné modely<br>
 1. Waterfall
 2. V-model
 3. W-model
-4. Scrum
+
+Agilný vývoj
+1.Extrémne programovanie XP
+2 Techniky BDD, TDD
+3.Metodika Lean softvare development
+4.Metodika Kanban
+5.Metodika DevOps
+6.Metodika Srum
+
+
+
+
 
 
 ## **Techniky tvorby testov**
 ## Kategórie techník návrhu testov ##
 - Založené na špecifikácii (čierna skrinka).
+Tu patria tieto techniky: 
+Rozdelenie ekvivalencie, 
+Analýza hraničných hodnôt, 
+Testovanie rozhodovacích tabuliek, 
+Testovanie prechodu stavov, 
+Testovanie prípadov použitia
 - Založené na štruktúre (biela skrinka).
+Pokrytie príkazov, 
+Pokryte rozhodnutí, 
+Pokrytie podmienok
 - Založené na skúsenostiach.
+Odhadovanie omylov, 
+Prieskumné testovanie
 
 
 
