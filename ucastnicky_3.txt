@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+petra pitelova
+terka slaninakova
+=======
+Veronika Pikáliová
+Terka Slaninkova
+Paulina Sekerkova
+Petra Piteľová
+Radoslava Svetlíková
+Silvia
+Veronika Kavkova
+Viktória Melicherová
+>>>>>>> origin/main
+=======
 Viktória Melicherová
 Veronika Kavkova
 Radoslava Svetlíková
@@ -6,3 +21,4 @@ Petra Piteľová
 Paulina Sekerkova
 Veronika Pikáliová
 Terka Slaninakova
+>>>>>>> origin/main
