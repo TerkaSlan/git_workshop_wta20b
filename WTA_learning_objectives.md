@@ -9,6 +9,13 @@ Povedali sme si prečo je dôležité testovať.
 Pokúšali sme sa testovať výťah.
 
 ![Výťahy](Elevators.jpg)
+
+Vysvetlili sme si pojmy Omyl, Defekt, Zlyhanie
+*(Dozvedeli sme sa aj preco sa bug vola [bug](https://www.computerimages.com/musings/computer_bug.html#) :joy:)*
+
+## **Typy testov**
+- Naucili sme sa rozdiel medzi **Frontend** a **Backend**
+
 ## **Session based testing** 
 **Naučili sme sa čo všetko má obsahovať report**
 ### Exploratory testing
@@ -82,7 +89,7 @@ Sekvenčné modely<br>
 ## **Testovanie API** 
 - Povedali sme si teoretické základy o API, REST API a protokole HTTP
 - Testovali sme API cez nástroj Postman
-
+![Postman](postman.png)
 ## **SQL** 
 **HTTP request - metódy** 
 - GET
@@ -97,3 +104,4 @@ Sekvenčné modely<br>
 - Tu je link na SQL cvičenia:
 [W3school](https://www.w3schools.com/sql/sql_exercises.asp
 )
+- Hrali sme sa s SQL [online] (https://sqliteonline.com/)
