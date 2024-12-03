@@ -24,8 +24,8 @@ Pokúšali sme sa testovať výťah.
 Otestujte kalkulačku
 - (http://ajtyvit-app.westeurope.cloudapp.azure.com:8080/kalkulacka.php)
 ### Session 2
-- Otestujte cestovné poriadky na cp.sk
-(https://cp.sk/vlakbusmhd/spojenie/)
+Otestujte cestovné poriadky na cp.sk
+- (https://cp.sk/vlakbusmhd/spojenie/)
 ## **Jira and Bug**
 Nástroj na testovanie
 
