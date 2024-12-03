@@ -89,6 +89,7 @@ Sekvenčné modely<br>
 ## **Testovanie API** 
 - Povedali sme si teoretické základy o API, REST API a protokole HTTP
 - Testovali sme API cez nástroj Postman
+
 ![Postman](postman.png)
 ## **SQL** 
 **HTTP request - metódy** 
@@ -104,4 +105,4 @@ Sekvenčné modely<br>
 - Tu je link na SQL cvičenia:
 [W3school](https://www.w3schools.com/sql/sql_exercises.asp
 )
-- Hrali sme sa s SQL [online] (https://sqliteonline.com/)
+- Hrali sme sa s SQL online (https://sqliteonline.com/)
