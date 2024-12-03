@@ -53,34 +53,31 @@ Sekvenčné modely<br>
 3. W-model
 
 Agilný vývoj
-1.Extrémne programovanie XP
-2 Techniky BDD, TDD
-3.Metodika Lean softvare development
-4.Metodika Kanban
-5.Metodika DevOps
-6.Metodika Srum
-
-
-
-
+1. Extrémne programovanie XP
+2. Techniky BDD, TDD
+3. Metodika Lean softvare development
+4. Metodika Kanban
+5. Metodika DevOps
+6. Metodika Srum
 
 
 ## **Techniky tvorby testov**
 ## Kategórie techník návrhu testov ##
 - Založené na špecifikácii (čierna skrinka).
 Tu patria tieto techniky: 
-Rozdelenie ekvivalencie, 
-Analýza hraničných hodnôt, 
-Testovanie rozhodovacích tabuliek, 
-Testovanie prechodu stavov, 
-Testovanie prípadov použitia
+1. Rozdelenie ekvivalencie
+2. Analýza hraničných hodnôt
+3. Testovanie rozhodovacích tabuliek
+4. Testovanie prechodu stavov 
+5. Testovanie prípadov použitia
+
 - Založené na štruktúre (biela skrinka).
-Pokrytie príkazov, 
-Pokryte rozhodnutí, 
-Pokrytie podmienok
+1. Pokrytie príkazov
+2. Pokrytie rozhodnutí
+3. Pokrytie podmienok
 - Založené na skúsenostiach.
-Odhadovanie omylov, 
-Prieskumné testovanie
+1. Odhadovanie omylov, 
+2. Prieskumné testovanie
 
 
 
