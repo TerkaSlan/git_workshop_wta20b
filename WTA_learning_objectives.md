@@ -36,10 +36,14 @@ Nástroj na testovanie
 ## **Techniky tvorby testov**
 
 ## **HTML, CSS, JavaScript**
+- Povedali sme si, čo je HTML, CSS a JavaScript
+- Vyskúšali naprogramovať stránku.
 
 ## **Nástroje testovania** 
 
 ## **Testovanie API** 
+- Povedali sme si teoretické základy o API, REST API a protokole HTTP
+- Testovali sme API cez nástroj Postman
 
 ## **SQL** 
 - tvorenie databázy
