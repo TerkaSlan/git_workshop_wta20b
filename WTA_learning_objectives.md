@@ -9,22 +9,23 @@ Pokúšali sme sa testovať výťah.
 ![Výťahy](Elevators.jpg)
 ## **Session based testing** 
 ### Exploratory testing
-Forma testovania pre základnú verifikáciu produktu
-Analýza a písanie testov sa robia zároveň s testovaním
-Sloboda a zodpovednosť testera/ky je nadradená procesom
-Používané pri agilnom vývoji
+- Forma testovania pre základnú verifikáciu produktu
+- Analýza a písanie testov sa robia zároveň s testovaním
+- Sloboda a zodpovednosť testera/ky je nadradená procesom
+- Používané pri agilnom vývoji
 
 ### Session based testing
-Mission 
-Charter
-Session
-Report
-Debrief
+- Mission 
+- Charter
+- Session
+- Report
+- Debrief
 ### Session 1
 Otestujte kalkulačku
+- (http://ajtyvit-app.westeurope.cloudapp.azure.com:8080/kalkulacka.php)
 ### Session 2
-Otestujte cestovné poriadky na cp.sk
-
+- Otestujte cestovné poriadky na cp.sk
+(https://cp.sk/vlakbusmhd/spojenie/)
 ## **Jira and Bug**
 Nástroj na testovanie
 
