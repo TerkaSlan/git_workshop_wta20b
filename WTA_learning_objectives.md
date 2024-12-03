@@ -15,6 +15,21 @@ Vysvetlili sme si pojmy Omyl, Defekt, Zlyhanie
 
 ## **Typy testov**
 - Naucili sme sa rozdiel medzi **Frontend** a **Backend**
+### Urovne testovania
+- Testovanie komponentov
+- Integračné testovanie komponentov
+- Systémové testovanie
+- Systémové integračné testovanie 
+- Akceptačné testovanie
+
+### Typy testov
+- Funkcionálne testovanie
+- Nefunkcionálne testovanie
+- Testovanie čiernej skrinky
+- Testovanie bielej skrinky
+- Testovanie súvisiace so zmenami
+
+
 
 ## **Session based testing** 
 **Naučili sme sa čo všetko má obsahovať report**
@@ -44,7 +59,10 @@ Jira je najpopulárnejší nástroj na riadenie projektu, existuje
 Nástroj na testovanie
 
 ## **Manažment testovania**
-Učili sme sa pracovať s nástrojom TestRail
+Učili sme sa pracovať s nástrojom TestRail.
+Vysvetlili sme si rozdiel medzi manazmentom testovania a testov.
+Ozrejmili sme si testovacie roly a urovne.
+
 
 ## **Modely vývoja software-u** 
 Sekvenčné modely<br>
