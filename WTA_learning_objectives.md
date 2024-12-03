@@ -44,6 +44,7 @@ Sekvenčné modely<br>
 1. Waterfall
 2. V-model
 3. W-model
+4. Scrum
 
 
 ## **Techniky tvorby testov**
