@@ -1,7 +1,9 @@
 # WTA learning objectives
 
 ## **Úvod do testovania**
-
+---
+Naučili sme sa 7 princípov testovania
+---
 Povedali sme si prečo je dôležité testovať.
 
 Pokúšali sme sa testovať výťah.
