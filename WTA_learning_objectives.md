@@ -70,6 +70,8 @@ Nástroj na testovanie
 Učili sme sa pracovať s nástrojom TestRail.
 Vysvetlili sme si rozdiel medzi manazmentom testovania a testov.
 Ozrejmili sme si testovacie roly a urovne.
+Rozobrali sme plánovanie testovania.
+Venovali sme sa aj metrikám testovania
 
 
 ## **Modely vývoja software-u** 
