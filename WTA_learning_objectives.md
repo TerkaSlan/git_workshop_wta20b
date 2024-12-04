@@ -142,6 +142,7 @@ Tu patria tieto techniky:
 ## **Testovanie API** 
 - Povedali sme si teoretické základy o API, REST API a protokole HTTP
 - Testovali sme API cez nástroj Postman
+- naučila som sa rozdiel medzi https a http
 
 ![Postman](postman.png)
 ## **SQL** 
