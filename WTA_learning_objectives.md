@@ -15,6 +15,8 @@ Vysvetlili sme si pojmy Omyl, Defekt, Zlyhanie
 
 ## **Typy testov**
 - Naucili sme sa rozdiel medzi **Frontend** a **Backend**
+- Naučili sme sa, že **Frontend** je užívateľské rozranie
+- **Backend** zahŕňa servery a databázy
 ### Urovne testovania
 - Testovanie komponentov
 - Integračné testovanie komponentov
