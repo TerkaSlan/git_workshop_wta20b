@@ -113,6 +113,10 @@ Tu patria tieto techniky:
 1. Odhadovanie omylov, 
 2. Prieskumné testovanie
 
+- Založené na skúsenosti: Testy sú odvádzané zo znalostí a intuície testerov a ich skúsenosti s podobnými aplikáciami a technológiami. 
+1. Odhadovanie omylov
+2. Prieskumné testovanie
+
 
 
 
