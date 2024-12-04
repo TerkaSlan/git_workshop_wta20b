@@ -40,6 +40,8 @@ Vysvetlili sme si pojmy Omyl, Defekt, Zlyhanie
 - Analýza a písanie testov sa robia zároveň s testovaním
 - Sloboda a zodpovednosť testera/ky je nadradená procesom
 - Používané pri agilnom vývoji
+- Vysvetlili sme si **automatizačnú pyramídu**.
+- Vyskúšali sme si prvý skupinový projekt.
 
 ### Session based testing
 - Mission 
