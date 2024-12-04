@@ -1,10 +1,10 @@
-<<<<<<< Updated upstream
 nikola schlosserova
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
 monika michalikova
+<<<<<<< HEAD
+maria rybarova
+Monika Ondrusova
 =======
 Monika Ondrusova
->>>>>>> Stashed changes
+maria molcanova
+>>>>>>> origin/main
 terka slaninakova
