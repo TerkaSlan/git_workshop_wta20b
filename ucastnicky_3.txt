@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Veronika Pikáliová
 Terka Slaninkova
 Paulina Sekerkova
@@ -6,3 +7,7 @@ Radoslava Svetlíková
 Silvia
 Veronika Kavkova
 Viktória Melicherová
+=======
+viki melicherova
+terka slaninakova
+>>>>>>> origin/main
