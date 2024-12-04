@@ -75,10 +75,16 @@ Venovali sme sa aj metrikám testovania
 
 
 ## **Modely vývoja software-u** 
+Vysvetlili sme si **SDLC** a **STLC** 
+
 Sekvenčné modely<br>
 1. Waterfall
 2. V-model
 3. W-model
+
+Cykliké vývojové modely
+1. Inkrementálny
+2. Iteratívny
 
 Agilný vývoj
 1. Extrémne programovanie XP
