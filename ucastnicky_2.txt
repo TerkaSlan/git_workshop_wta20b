@@ -1,5 +1,10 @@
 nikola schlosserova
 monika michalikova
+<<<<<<< HEAD
+maria rybarova
+Monika Ondrusova
+=======
 Monika Ondrusova
 maria molcanova
+>>>>>>> origin/main
 terka slaninakova
