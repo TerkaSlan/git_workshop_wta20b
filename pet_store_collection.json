@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "a3572a4a-d506-4db9-b111-cf7488029b08",
+		"_postman_id": "27b485dc-d6b5-475a-ab11-e3e81db80bfe",
 		"name": "Pet store - git example -- orig",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "1667070"
+		"_exporter_id": "39968925"
 	},
 	"item": [
 		{
@@ -15,6 +15,10 @@
 						"exec": [
 							"pm.test(\"Status code is 200\", function () {\r",
 							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time is less than 1000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
 							"});"
 						],
 						"type": "text/javascript",
@@ -76,6 +80,14 @@
 							"pm.test(\"Check username equals created user\", function () {\r",
 							"    var jsonData = pm.response.json();\r",
 							"    pm.expect(jsonData.username).to.eql(pm.collectionVariables.get(\"username\"));\r",
+							"});\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"\r",
+							"pm.test(\"Response time is less than 1000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
 							"});"
 						],
 						"type": "text/javascript",
@@ -112,7 +124,15 @@
 					"script": {
 						"exec": [
 							"var jsonData = pm.response.json();\r",
-							"pm.collectionVariables.set(\"session\", jsonData.message.split(\":\")[1]);"
+							"pm.collectionVariables.set(\"session\", jsonData.message.split(\":\")[1]);\r",
+							"\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Check message Logged in user\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"logged in user\");\r",
+							"});"
 						],
 						"type": "text/javascript",
 						"packages": {}
@@ -152,6 +172,20 @@
 		},
 		{
 			"name": "Update user",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
 			"request": {
 				"method": "PUT",
 				"header": [
